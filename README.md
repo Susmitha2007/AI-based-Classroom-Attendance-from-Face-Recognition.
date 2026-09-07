@@ -500,5 +500,4 @@ print(
 
 
 ## Result 
-
 The AI-based Classroom Attendance System was successfully implemented using face recognition. The system detects faces from the classroom image, recognizes registered students, automatically marks them as Present or Absent, identifies unknown faces, and stores the attendance details in a CSV file.
