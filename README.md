@@ -491,13 +491,8 @@ print(
 ```
 
 ## Output
-
 <img width="713" height="627" alt="image" src="https://github.com/user-attachments/assets/e8f2dff7-6544-4908-8118-e75b1def0515" />
-
 <img width="453" height="573" alt="image" src="https://github.com/user-attachments/assets/ba0f2fad-22df-4502-8dee-3dd1430ca350" />
-
 <img width="286" height="238" alt="image" src="https://github.com/user-attachments/assets/def8296c-b2c5-4f5d-8396-dcf9af95ba42" />
-
-
 ## Result 
 The AI-based Classroom Attendance System was successfully implemented using face recognition. The system detects faces from the classroom image, recognizes registered students, automatically marks them as Present or Absent, identifies unknown faces, and stores the attendance details in a CSV file.
